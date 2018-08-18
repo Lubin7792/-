@@ -1,2 +1,26 @@
-杨佳仑 个人作品在src 文件目录里
+杨佳仑 个人作品
 <img src="./src/1.1.png"> 
+<img src="./src/1.png"> 
+<img src="./src/2.1.png"> 
+<img src="./src/2.2.png"> 
+<img src="./src/3.png"> 
+<img src="./src/4.png"> 
+<img src="./src/5.png"> 
+<img src="./src/6.png"> 
+<img src="./src/7.png"> 
+<img src="./src/8.1.png"> 
+<img src="./src/8.png"> 
+<img src="./src/9.png"> 
+<img src="./src/10.1.png"> 
+<img src="./src/10.2.png"> 
+<img src="./src/11.png"> 
+<img src="./src/12.png"> 
+<img src="./src/13.1.png"> 
+<img src="./src/13.2.png"> 
+<img src="./src/13.3.png"> 
+<img src="./src/13.4.png"> 
+<img src="./src/13.5.png"> 
+<img src="./src/13.6.png"> 
+<img src="./src/14.png"> 
+<img src="./src/15.png"> 
+<img src="./src/16.png"> 
